@@ -12,4 +12,4 @@ VBook merupakan Web App toko buku. Banyak kategori buku tersedia di sini. Varias
 *Fitur rating masih belum diterapkan.  
 
 Data Model:  
-![data model](resource/'VBook Data Model.drawio.png')
+![VBook Data Model](resource/VBook%20Data%20Model.drawio.png)
