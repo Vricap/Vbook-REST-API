@@ -9,4 +9,6 @@ Untuk dokumentasi API nya -> https://documenter.getpostman.com/view/27790185/2s9
 Tentang VBook:
 VBook merupakan Web App toko buku. Banyak kategori buku tersedia di sini. Variasi buku setiap kategori juga cukup banyak--mulai dari klasik, modern; penulis terkenal; buku populer, dll.
 
-*Fitur rating masih belum diterapkan.
+*Fitur rating masih belum diterapkan.  
+
+![Tux, example](/resource/VBook Data Model.drawio.png)
