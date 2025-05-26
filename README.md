@@ -2,7 +2,7 @@ Ini adalah API Web App VBook yang saya buat. Ini merupakan proyek pertama saya m
 
 Ini hanya API; tidak ada server-side rendering--walaupun mungkin di masa depan saya akan buat client-side rendering menggunakan API ini untuk membuat front-end. Tetapi untuk sekarang, hanya back-end. 
 
-Banyak fitur dalam API yang saya buat. Contoh; Sign-up, User Authorization/Authentication, Querying (sorting, filtering, fields, pagination), Advanced Error Handling, banyak operasi CRUD, dll.
+Banyak fitur dalam API yang saya buat. Contoh; Sign-up, User Authorization/Authentication (using JWT), Querying (sorting, filtering, fields, pagination), Advanced Error Handling, banyak operasi CRUD, dll.
 
 Untuk dokumentasi API nya -> https://documenter.getpostman.com/view/27790185/2s9YJW4kVm
 
